@@ -1,7 +1,7 @@
 {
   "name": "(PYTHONBOT-V9)",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/c28177cebcb5047a0f833.jpg",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N DARK-LEGEND-PRO Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/cfa6b3f520b9677168d8c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-LX/PYTHONBOT-V9/",
-  "website": "https://github.com/LEGEND-LX/PYTHONBOT-V9/",
+  "repository": "https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9/",
+  "website": "https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9/",
   "success_url": "https://t.me/Python_Userbot_Support",
   "env": {
     "ENV": {
@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
-      "value": "LEGEND-LX",
+      "description": "Fill your Full name. By default it is LEGEND-PRO User",
+      "value": "LEGEND-PRO",
       "required": false
     },
     "ALIVE_MSG": {
