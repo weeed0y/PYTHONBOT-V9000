@@ -1,8 +1,8 @@
-![photo_2022-01-03_04-37-39 - Copy](https://user-images.githubusercontent.com/87700009/148641946-111e524c-0d8f-44c4-a981-ecd703e7840d.jpg)
-![photo_2022-01-03_04-11-58](https://user-images.githubusercontent.com/87700009/148641949-d7cdbd32-fb17-4b57-ba09-6c71d178d4f3.jpg)
-![photo_2022-01-03_04-39-36 - Copy](https://user-images.githubusercontent.com/87700009/148641952-08599d21-c3d1-414c-8c64-bb373350974e.jpg)
-![photo_2022-01-03_04-40-48 - Copy](https://user-images.githubusercontent.com/87700009/148641956-023757cb-bbf1-4b70-9b2d-1c088ba2e801.jpg)
-![photo_2021-11-06_01-38-31](https://user-images.githubusercontent.com/87700009/140607545-b8576cd7-7e43-4f74-bf7c-fefae124c749.jpg)
+![photo_2022-01-22_23-42-13](https://user-images.githubusercontent.com/98252847/150669309-945b259d-b898-4ab6-9710-9e3ba81c9fb1.jpg)
+![photo_2022-01-22_23-41-52](https://user-images.githubusercontent.com/98252847/150669312-cd6f10c7-6f8c-4e3c-89f9-a37ae32863c5.jpg)
+![photo_2022-01-22_23-45-28](https://user-images.githubusercontent.com/98252847/150669325-f6e998ee-c3c4-46fd-8a96-eccc151c5555.jpg)
+![photo_2022-01-22_23-45-32](https://user-images.githubusercontent.com/98252847/150669333-006a3e6e-4027-4dc0-a9bb-f0621b11b736.jpg)
+
 
 {DEVELOPER}By = [DARK-LEGEND-PRO](http://t.me/LegendHacker_IN)
 
