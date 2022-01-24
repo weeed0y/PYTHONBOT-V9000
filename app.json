@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9/",
   "website": "https://github.com/DARK-LEGEND-PRO/PYTHONBOT-V9/",
-  "success_url": "https://t.me/Python_Userbot_Support",
+  "success_url": "https://t.me/Python_Userbot_Support_Pro",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -34,7 +34,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@Python_Userbot_Support_Pro",
       "required": false
     },
     "YOUR_CHANNEL": {
@@ -54,27 +54,27 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/73291554e700e61a8d963.jpg",
+      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
       "required": true
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/73291554e700e61a8d963.jpg",
+      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/73291554e700e61a8d963.jpg",
+      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support",
+      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍 ϐєϲαυѕє ι αм υѕєя οƒ ✞︎t͛ẞ̸ Pythonẞø✞︎ @Python_Userbot_Support_Pro",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/138d8d3cdaaf2731b3a55.jpg",
+      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
       "required": true
     },
     "PM_MSG": {
