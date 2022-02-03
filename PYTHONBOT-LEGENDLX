@@ -27,17 +27,17 @@ _get_repolink () {
 _set_bot () {
     local zippath
     zippath="PYTHONBOT.zip"
-    echo "  Downloading PythonBot V9.O.8 Source Code..."
+    echo "  Downloading 💥💫PythonBot~Pro💫💥 Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
     PYTHONPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  PythonBot V9.O.8 Cleaning.."
+    echo "  💥💫PythonBot~Pro💫💥 Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $PYTHONPATH
-    echo "    🐍ѕταяτιиg ѕмοοτнєѕτ Python𝕭ø𝖙 V9.O.8🐍     "
+    echo "   ✨☄️ ѕταяτιиg ѕмοοτнєѕτ 💥💫Python𝕭ø𝖙💫💥 ✨☄️     "
     echo "
     PYTHONBOT
     "
