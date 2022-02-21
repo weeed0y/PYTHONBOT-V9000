@@ -1,5 +1,5 @@
 {
-  "name": "(💥💫PythonBot~Pro💫💥)",
+  "name": "(💥💫DragonBot~Pro💫💥)",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N DARK-LEGEND-PRO Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/92e952d97b37bdc7d0ca7.jpg",
     "keywords": [
@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
+      "value": "Dragonẞø† 𝐈𝐬 Dark_Legend_Pro",
       "required": false
     },
     "YOUR_GROUP": {
@@ -74,7 +74,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "value": "https://te.legra.ph/file/bdc5bb47da463f5c4322a.jpg",
       "required": true
     },
     "PM_MSG": {
@@ -189,6 +189,10 @@
       "value": "💞",
       "required": false
     },
+    "DRAGON_MUSIC": {
+      "description": "Add Pyrogram String for Music-Edition... "
+      "value": "STRINGS"
+      "required" : true
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
