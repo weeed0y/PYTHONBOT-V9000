@@ -1,7 +1,7 @@
 {
-  "name": "(💥💫DragonBot~Pro💫💥)",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N DARK-LEGEND-PRO Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/92e952d97b37bdc7d0ca7.jpg",
+  "name": "{🔱Pro~PythonBot🔱}",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N DARK_LEGEND_PRO Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/131e68172389ed4107d5c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -23,13 +23,13 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-PRO User",
+      "description": "Fill your Full name. By default it is LEGEND User",
       "value": "LEGEND-PRO",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .pyalive Or .op  Command.",
-      "value": "Dragonẞø† 𝐈𝐬 Dark_Legend_Pro",
+      "value": "Pythonẞø† 𝐈𝐬 Online-Lx",
       "required": false
     },
     "YOUR_GROUP": {
@@ -54,17 +54,17 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .pybot command.",
-      "value": "https://te.legra.ph/file/6dd136eeea334c385d5f4.jpg",
+      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
       "required": true
     },
     "PYTHON_PIC": {
       "description": "Put here any telegraph media link for PYTHON pic in .op command.",
-      "value": "https://te.legra.ph/file/761e7a5f71f93cd6b4b5a.jpg",
+      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
       "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .pyalive Or .op command.",
-      "value": "https://telegra.ph/file/f78f716654c404bfa2df7.jpg",
+      "value": "https://telegra.ph/file/7949b91419c14f3b91bc3.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -74,7 +74,7 @@
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://te.legra.ph/file/bdc5bb47da463f5c4322a.jpg",
+      "value": "https://telegra.ph/file/00399ad38373f61c5a2ff.jpg",
       "required": true
     },
     "PM_MSG": {
@@ -96,11 +96,10 @@
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
       "value": ""
     },
-  
     "SUDO_USERS": {
-      "description": "Enter these friends user id to to give him sudo no <===>☆(2017355758 2008302614 2043276182)☆<===> {Increase your sudo Power} add more user id for More power sudo id",
-      "value": "2043276182 2017355758 2008302614",
-      "required": true
+      "description": "Enter your friends user id to to give him bot full access",
+      "value": "",
+      "required": false
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
@@ -108,8 +107,8 @@
       "required": false
     },
     "COMMAND_HAND_LER": {
-      "description": "U can Change Ur command Handler By Default it is (¡)",
-      "value": "¡",
+      "description": "U can Change Ur command Handler By Default it is (.)",
+      "value": ".",
       "required": true
       },
     "API_HASH": {
@@ -176,23 +175,18 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🤍",
+      "value": "⚜",
       "required": true
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💋",
+      "value": "💫",
       "required": false
     },
     "ALIVE_EMOJI": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "💞",
+      "value": "⚡",
       "required": false
-    },
-    "DRAGON_MUSIC": {
-      "description": "Add Pyrogram String for Music-Edition... "
-      "value": "STRINGS"
-      "required" : true
     },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
@@ -225,4 +219,3 @@
     "url": "heroku/python"
   }]
 }
-
