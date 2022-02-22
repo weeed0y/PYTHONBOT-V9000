@@ -34,7 +34,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Python_Userbot_Support",
+      "value": "@Python_Userbot_Support_Pro",
       "required": false
     },
     "YOUR_CHANNEL": {
@@ -193,6 +193,7 @@
       "description": "Add Pyrogram String for Music-Edition... "
       "value": "STRINGS"
       "required" : true
+    },
     "PM_DATA": {
       "description": "Type DISABLE if you want to disable pm protection... ",
       "value": "ENABLE",
@@ -211,7 +212,7 @@
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
   },{
-    "url":"https://github.com/DARK-LEGEND-PRO/aria2-heroku.git"
+    "url":"https://github.com/amivin/aria2-heroku.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
