@@ -98,8 +98,8 @@
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
-      "required": false
+      "value": "2043276182",
+      "required": true
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
