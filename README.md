@@ -1,7 +1,8 @@
-![photo_2022-01-22_23-42-13](https://user-images.githubusercontent.com/98252847/150669309-945b259d-b898-4ab6-9710-9e3ba81c9fb1.jpg)
-![photo_2022-01-22_23-45-32](https://user-images.githubusercontent.com/98252847/150669333-006a3e6e-4027-4dc0-a9bb-f0621b11b736.jpg)
-![photo_2022-01-22_23-45-28](https://user-images.githubusercontent.com/98252847/150669333-006a3e6e-4027-4dc0-a9bb-f0621b11b736.jpg)
-![photo_2022-01-22_23-45-32](https://user-images.githubusercontent.com/98252847/150669333-006a3e6e-4027-4dc0-a9bb-f0621b11b736.jpg)
+![photo_2022-02-21_05-11-17](https://user-images.githubusercontent.com/87700009/155175208-e1ccf719-6aa0-4fcd-b330-16d20e6382a5.jpg)
+![photo_2022-02-21_05-14-09](https://user-images.githubusercontent.com/87700009/155175217-b4d395cd-5930-4703-8f6f-09c46430f822.jpg)
+![photo_2022-02-21_05-14-12](https://user-images.githubusercontent.com/87700009/155175218-ef0ca625-aa03-479a-95ef-3d7da1726d67.jpg)
+![photo_2022-02-21_05-14-15](https://user-images.githubusercontent.com/87700009/155175222-ffaab0be-9937-47f5-814c-d46130584ce3.jpg)
+![photo_2022-02-21_05-14-17](https://user-images.githubusercontent.com/87700009/155175225-cce398f6-7e03-4de1-8c6a-2186d7074d24.jpg)
 
 
 {DEVELOPER}By = [DARK-LEGEND-PRO](https://t.me/PYTHON_USERBOT_SUPPORT)
